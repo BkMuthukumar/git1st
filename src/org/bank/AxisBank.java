@@ -16,6 +16,7 @@ public void deposit() {
 	System.out.println("AXIS BANK  DEPOSIT: 200000");
 	super.deposit();
 	System.out.println("sghdw");
+	System.out.println("sghdw");
 }
 // MAIN 
    public static void main(String[] args) {
