@@ -15,7 +15,12 @@ public void fixed() {
 public void deposit() {
 	System.out.println("AXIS BANK  DEPOSIT: 200000");
 	super.deposit();
+//<<<<<<< HEAD
+	System.out.println("sghdw");
+	System.out.println("sghdw");
+//=======
 	System.out.println("git working or not");
+//>>>>>>> e602f71920d21c770ebc762477e8f0b9daba7d2f
 }
 // MAIN 
    public static void main(String[] args) {
